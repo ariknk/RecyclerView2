@@ -1,5 +1,4 @@
 ## RecyclerView2
-* Nama Paket : id.sch.smktelkom_mlg.learn.recyclerview2
 
 ## Identitas
 * Nama  : Arik Nur Khoiriyah
@@ -10,6 +9,6 @@
 
 ## Screenshot Aplikasi
 <p align="center">
-  <img src="http://i66.tinypic.com/oax30g.jpg" width="350"/>
+  <img src="http://i66.tinypic.com/oax30g.jpg" width="350"/><br>
   <img src="http://i66.tinypic.com/oax30g.jpg" width="350"/>
 </p>
